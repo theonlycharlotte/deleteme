@@ -6,3 +6,7 @@ div {
     padding: 1em;
 
 }
+
+footer {
+    text-transform: capitalize;
+}
